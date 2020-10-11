@@ -1,0 +1,2 @@
+TOKEN = '1151667518:AAHNV7m3xhheCDOBiH3zdAUKI9s1jiLbdQE'
+ADMIN = 'kypi_mne_tapo4ki'
